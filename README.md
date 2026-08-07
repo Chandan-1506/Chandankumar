@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Chandan+Kumar;AI+%26+Software+Engineer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF00FF,39FF14&center=true&vCenter=true&width=600&lines=I'm+Chandan+Kumar;AI+%26+Software+Engineer;Welcome+to+my+GitHub!" />
 #Hi 👋, I'm Chandan Kumar
 
 🎓 **B.Tech ECE @ IEM Kolkata**  
