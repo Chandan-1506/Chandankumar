@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF00FF,39FF14&center=true&vCenter=true&width=600&lines=I'm+Chandan+Kumar;AI+%26+Software+Engineer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF00FF;39FF14&center=true&vCenter=true&width=600&lines=I'm+Chandan+Kumar;AI+%26+Software+Engineer;Welcome+to+my+GitHub!" />
+
 #Hi 👋, I'm Chandan Kumar
 
 🎓 **B.Tech ECE @ IEM Kolkata**  
@@ -10,10 +11,14 @@
 ---
  🛠️ Skills
 `Java` `Python` `C` `Git` `GitHub` `AI/ML` `VLSI`
-
-
+---
+📌 Featured Projects
+🎮 Tic-Tac-Toe Game — C (https://github.com/Chandan-1506/Tic-Tac-Toe-Game) 
+💰 Expense Tracker — C (https://github.com/Chandan-1506/Expense-Tracker-C)
+---
+---
  📫 Connect with me
 
 https://www.linkedin.com/in/chandan-kumar-2kk6
-
 https://github.com/Chandan-1506
+---
