@@ -27,10 +27,10 @@
 ---
 
 ### 📊 GitHub Stats
-![image](https://github-readme-stats.vercel.app/api?username=Chandan-1506&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandan-1506&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🔥 Contribution Streak
-![image](https://streak-stats.demolab.com?user=Chandan-1506&theme=tokyonight&hide_border=true)
+![Github Streak](https://streak-stats.demolab.com?user=Chandan-1506&theme=tokyonight&hide_border=true)
 
 ### 🐍 My Contribution Graph
-![image](https://github.com/Chandan-1506/Chandan-1506/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Chandan-1506/Chandan-1506/output/github-contribution-grid-snake.svg)
