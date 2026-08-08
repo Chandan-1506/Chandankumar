@@ -22,3 +22,12 @@
 https://www.linkedin.com/in/chandan-kumar-2kk6
 https://github.com/Chandan-1506
 ---
+<br>
+
+### 📊 GitHub Stats
+
+[image](https://github-readme-stats.vercel.app/api?username=Chandan-1506&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🔥 Contribution Streak
+
+[image](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-1506&theme=tokyonight&hide_border=true)
