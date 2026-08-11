@@ -27,7 +27,7 @@
 ---
 
 ### 🔥 Contribution Streak
-![Github Streak](https://streak-stats.demolab.com?user=Chandan-1506&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chandan-1506)](https://git.io/streak-stats)
 
 ### 🐍 My Contribution Graph
 ![GitHub Snake](https://raw.githubusercontent.com/Chandan-1506/Chandankumar/output/github-contribution-grid-snake.svg)
